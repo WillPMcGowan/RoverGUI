@@ -1,0 +1,10 @@
+C:\Users\wmcgo\source\repos\ARUDINOGUI\ARUDINOGUI\bin\Debug\ARUDINOGUI.exe.config
+C:\Users\wmcgo\source\repos\ARUDINOGUI\ARUDINOGUI\bin\Debug\ARUDINOGUI.exe
+C:\Users\wmcgo\source\repos\ARUDINOGUI\ARUDINOGUI\bin\Debug\ARUDINOGUI.pdb
+C:\Users\wmcgo\source\repos\ARUDINOGUI\ARUDINOGUI\obj\Debug\ARUDINOGUI.csproj.AssemblyReference.cache
+C:\Users\wmcgo\source\repos\ARUDINOGUI\ARUDINOGUI\obj\Debug\ARUDINOGUI.Properties.Resources.resources
+C:\Users\wmcgo\source\repos\ARUDINOGUI\ARUDINOGUI\obj\Debug\ARUDINOGUI.csproj.GenerateResource.cache
+C:\Users\wmcgo\source\repos\ARUDINOGUI\ARUDINOGUI\obj\Debug\ARUDINOGUI.csproj.CoreCompileInputs.cache
+C:\Users\wmcgo\source\repos\ARUDINOGUI\ARUDINOGUI\obj\Debug\ARUDINOGUI.exe
+C:\Users\wmcgo\source\repos\ARUDINOGUI\ARUDINOGUI\obj\Debug\ARUDINOGUI.pdb
+C:\Users\wmcgo\source\repos\ARUDINOGUI\ARUDINOGUI\obj\Debug\ARUDINOGUI.ArduinoGUI.resources
